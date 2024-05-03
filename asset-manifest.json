@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weekly_dashboard/static/css/main.b1898c96.css",
+    "main.js": "/weekly_dashboard/static/js/main.4c67d363.js",
+    "index.html": "/weekly_dashboard/index.html",
+    "main.b1898c96.css.map": "/weekly_dashboard/static/css/main.b1898c96.css.map",
+    "main.4c67d363.js.map": "/weekly_dashboard/static/js/main.4c67d363.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1898c96.css",
+    "static/js/main.4c67d363.js"
+  ]
+}
